@@ -1,0 +1,15 @@
+{
+  "name": "DistFromMa",
+  "version": "0.0.1",
+  "description": "Simple app to measure how far is stock is from its 20 SMA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rick Boulanger",
+  "license": "ISC",
+  "dependencies": {
+    "quandl": "0.0.2",
+    "node-pushover": "^0.2.2"
+  }
+}
